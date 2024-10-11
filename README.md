@@ -2,6 +2,6 @@
 ---
 ##### Use it everyday and night.
 ---
-*Go to work*  
-**Go to work**
+*Go to work*.  
+**Go to work**.
 
